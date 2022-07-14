@@ -1,4 +1,4 @@
-Hi , I'm Anamol Khadka 👋
+# **Hi , I'm Anamol Khadka** 👋
 
 - 🔭 I’m currently working on MyJournal :computer:
 - 📫 How to reach me: khadkaanamol8@gmail.com
